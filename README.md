@@ -343,9 +343,9 @@ Implemented Google AMP on the landing page, configured sitemap.xml, robots.txt, 
 **Mohamed Faiz N**
 BCA — Kalasalingam Academy of Research and Education
 
-[![GitHub](https://img.shields.io/badge/GitHub-MohamedFaizN-181717?style=flat-square&logo=github)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-MohamedFaizN-181717?style=flat-square&logo=github)](https://github.com/MOHAMEDFAIZN)
 [![Email](https://img.shields.io/badge/Email-support@univmeta.xyz-D14836?style=flat-square&logo=gmail)](mailto:support@univmeta.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](www.linkedin.com/in/mohamed-faiz-n-11706a275)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohamed-faiz-n-11706a275)
 
 > Co-developed as part of the **UnivMeta** team — see [Developers Page](https://www.univmeta.xyz/Developers%20Details%20UnivMeta/developers.html) for all contributors.
 
