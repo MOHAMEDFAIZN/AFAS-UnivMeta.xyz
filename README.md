@@ -341,7 +341,7 @@ Implemented Google AMP on the landing page, configured sitemap.xml, robots.txt, 
 ## 👨‍💻 Author
 
 **Mohamed Faiz N**
-B.Tech — Kalasalingam Academy of Research and Education
+BCA — Kalasalingam Academy of Research and Education
 
 [![GitHub](https://img.shields.io/badge/GitHub-MohamedFaizN-181717?style=flat-square&logo=github)](https://github.com/)
 [![Email](https://img.shields.io/badge/Email-support@univmeta.xyz-D14836?style=flat-square&logo=gmail)](mailto:support@univmeta.xyz)
